@@ -1,0 +1,256 @@
+.avion-nav {
+  color: rgb(34, 32, 46);
+  font-family: Clash Display;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0%;
+}
+
+.nav > ul > li > a {
+  text-decoration: none;
+  color: #726e8d;
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0%;
+}
+
+h1 {
+  font-family: Clash Display;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0%;
+  color: #22202e;
+}
+
+.bottom-h1 {
+  font-family: Satoshi;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #5b5676;
+}
+
+.btn-section1 {
+  background-color: #f9f9f9;
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #2a254b;
+}
+
+.h2-section2 {
+  font-family: Clash Display;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0%;
+  color: #2a254b;
+}
+
+.h3-section2 {
+  font-family: Clash Display;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0%;
+  color: #2a254b;
+}
+
+.p-section2 {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #2a254b;
+}
+
+.p-section3 {
+  font-family: Clash Display;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0%;
+  color: #2a254b;
+}
+
+.p2-section3 {
+  font-family: Satoshi;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #2a254b;
+}
+
+.btn-section3 {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  columns: #2a254b;
+  background: #f9f9f9;
+}
+
+.h2-section4 {
+  font-family: Clash Display;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 39px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+
+.p-section4 {
+  font-family: Satoshi;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+
+.section4 {
+  background-color: #2a254b;
+}
+
+.btn-section4 {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #ffffff;
+  background: #f9f9f926;
+}
+
+.h2-section5 {
+  font-family: Clash Display;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0%;
+}
+
+.p-section5 {
+  font-family: Satoshi;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+}
+
+.ul-section5 {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+}
+
+.input-section5 {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0%;
+  color: #2a254b;
+}
+
+.btn-section5 {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #ffffff;
+  background: #2a254b;
+}
+
+footer {
+  background: #2a254b;
+}
+
+.ul1-footer > li > a {
+  font-family: Satoshi;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.ul2-footer > li > a {
+  font-family: Satoshi;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.ul3-footer > li > a {
+  font-family: Satoshi;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.h4-nav-footer {
+  font-family: Clash Display;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+
+.h4-footer {
+  font-family: Clash Display;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+
+.input-footer {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+
+.btn-footer {
+  font-family: Satoshi;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #2a254b;
+  background: white;
+}
+
+.p-footer {
+  font-family: Satoshi;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
